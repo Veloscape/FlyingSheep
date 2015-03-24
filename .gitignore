@@ -11,6 +11,9 @@
 # Generated files
 bin/
 gen/
+res/
+spec/
+spec.html
 
 # Gradle files
 .gradle/
